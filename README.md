@@ -1,75 +1,15 @@
-# Nuxt Minimal Starter
+# Careear
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## problem
 
-## Setup
+### motivation
 
-Make sure to install dependencies:
+- it's hard to share journal prompts with others (or find new ones)
+- community-driven -> you can fork to translate or add your own twist
+- it's form-like so easy to fill out. you can do it right on the site
+- entire site is open-source, both tech and content
 
-```bash
-# npm
-npm install
+### why not just a notion template?
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- it's quite difficult to fork
+- not everybody uses notion <- the most important barrier, actually
