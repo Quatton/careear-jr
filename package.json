@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "careear-jr",
   "private": true,
   "type": "module",
   "scripts": {
@@ -14,9 +14,10 @@
     "@nuxt/ui": "^3.0.0-alpha.10",
     "nuxt": "^3.14.1592",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "@nuxt/rspack-builder": "^3.14.1592"
   },
   "devDependencies": {
-    "@nuxt/rspack-builder": "^3.14.1592"
+    "@tailwindcss/typography": "^0.5.15"
   }
 }
